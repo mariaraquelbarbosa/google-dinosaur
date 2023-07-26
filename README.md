@@ -1,2 +1,2 @@
-# google-dinosaur
+# Aplicando IA em jogos
 Otimização do jogo do Dinossauro do Google Chrome com Machine Learning.
