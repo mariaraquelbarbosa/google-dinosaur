@@ -11,6 +11,6 @@ O presente projeto tem como objetivo otimizar o jogo do Dinossauro do Google Chr
 
   <a href="https://github.com/mariaraquelbarbosa">[![GitHub Badge](https://img.shields.io/badge/Maria_Raquel-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mariaraquelbarbosa)</a>
   <a href="https://github.com/Gust4242">[![GitHub Badge](https://img.shields.io/badge/Gustavo_Yuji-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Gust4242)
-  <a href="https://github.com/k-marcelino">[![GitHub Badge](https://img.shields.io/badge/Kevyn_Andrade-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/k-marcelino)
+  <a href="https://github.com/k-marcelino">[![GitHub Badge](https://img.shields.io/badge/Kevyn_Marcelino-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/k-marcelino)
 
 </div>
