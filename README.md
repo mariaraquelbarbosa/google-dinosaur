@@ -18,3 +18,6 @@
 Visando explorar mais o campo da aplicação de inteligência artificial em jogos, o presente projeto tem como objetivo otimizar o jogo do Dinossauro do Google Chrome com o uso de machine learning e programação orientada a objetos.
 
 > Status: Stand By 🔴
+
+# Referências
+* [Chrome Dinosaur in Pygame - YouTube Playlist](https://youtube.com/playlist?list=PL30AETbxgR-fAbwiuU1vDl3owNUPUuVrz&si=B3zq1fQp9aHoHjhu)
