@@ -1,6 +1,8 @@
 # Aplicação de Inteligência Artificial em Jogos
 O presente projeto tem como objetivo otimizar o jogo do Dinossauro do Google Chrome com Machine Learning.
 
+> Status: Stand By 🔴
+
 <div align="center">
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" alt="Jogo do Dinossauro" width="600">
